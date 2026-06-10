@@ -1,6 +1,6 @@
 {
-  "name": "Longer name of App",
-  "short_name": "Short name", 
+  "name": "HTML Basic Template",
+  "short_name": "HTML Template", 
   "start_url": "/urlname.bauska.org",
   "display": "standalone",
   "icons": [
@@ -12,7 +12,7 @@
   ]
 }
 {
- "name": "Name of App",
+ "name": "HTML Template",
  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",

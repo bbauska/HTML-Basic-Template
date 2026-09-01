@@ -1,7 +1,7 @@
 {
   "name": "HTML Basic Template",
   "short_name": "HTML Template", 
-  "start_url": "/urlname.bauska.org",
+  "start_url": "index.html",
   "display": "standalone",
   "icons": [
     {
